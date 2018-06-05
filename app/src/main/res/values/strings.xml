@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test18</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Sign Up</string>
+
+    <string name="shr_button_cancel">Login Instead?</string>
+    <string name="shr_error_password">Passwords dont match</string>
+    <string name="shr_button_next2">Login</string>
+
+</resources>
